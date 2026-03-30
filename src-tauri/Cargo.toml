@@ -29,7 +29,7 @@ thiserror = "1.0.61"
 chrono = "*"
 
 hurl_core = "4.3.0"
-hurl = "4.3.0"
+hurl = "7.0.0"
 hurlfmt = "4.3.0"
 
 [dependencies.uuid]
